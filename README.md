@@ -12,6 +12,8 @@ This project implements a **Convolutional Neural Network (CNN)** to automaticall
 - **NORMAL**: Healthy lungs
 - **PNEUMONIA**: Infected lungs
 
+![e5c4a61c-f15b-4618-ba1c-f2995ccacdb0](https://github.com/user-attachments/assets/48d2a3a8-20ac-4c56-9050-ad2c3ba22a99)
+
 ## 🫁 About Pneumonia
 
 Pneumonia is a serious infection that inflames the air sacs (alveoli) in one or both lungs, causing them to fill with fluid. This condition leads to symptoms including:
